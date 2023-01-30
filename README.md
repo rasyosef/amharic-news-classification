@@ -15,6 +15,6 @@ the data upto training the model.
 ![classification_report](https://user-images.githubusercontent.com/37704356/215358485-b16e11c0-e921-4537-9e4d-019c5674f4ed.png)
 
 ### Confusion Matrix
-![confusion_matrix](https://user-images.githubusercontent.com/37704356/215358622-3659c6c6-d31b-4fa6-9894-79b7a9f24e7e.png)
+![confusion_matrix](https://user-images.githubusercontent.com/37704356/215540892-6650d73e-6452-45c8-b28d-1ce90bc12eef.png)
 
 
